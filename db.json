@@ -1,0 +1,95 @@
+{
+  "profesores": [
+    {
+      "nombre": "julieta",
+      "apellido": "Code",
+      "materias": [
+        {
+          "nombre": "NodeJs desde Cero"
+        },
+        {
+          "nombre": "React desde Cero"
+        },
+        {
+          "nombre": "Javascript desde cero"
+        }
+      ],
+      "id": "656a"
+    },
+    {
+      "nombre": "Camila",
+      "apellido": "Code",
+      "materias": [
+        {
+          "nombre": "Fisica"
+        },
+        {
+          "nombre": "Quimica"
+        },
+        {
+          "nombre": "Biologia"
+        }
+      ],
+      "id": "a0fe"
+    },
+    {
+      "id": "0346",
+      "nombre": "Ruben",
+      "apellido": "Gomez",
+      "materias": [
+        {
+          "nombre": "fisica"
+        },
+        {
+          "nombre": "React desde Cero"
+        },
+        {
+          "nombre": "Javascript desde cero"
+        },
+        {
+          "nombre": "Ingles"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Rodriguez",
+      "promedio": 8.2,
+      "id": "7b00"
+    },
+    {
+      "nombre": "Alfonsina ",
+      "apellido": "Storni",
+      "promedio": 9,
+      "id": "1d7e"
+    },
+    {
+      "nombre": "Rodrigo",
+      "apellido": "Fernandez",
+      "promedio": 6,
+      "id": "740a"
+    }
+  ],
+  "curso": [
+    {
+      "nombre": "NodeJs desde Cero",
+      "duracion": 8,
+      "dificultad": "intermedia",
+      "id": "a868"
+    },
+    {
+      "nombre": "React desde Cero",
+      "duracion": 8,
+      "dificultad": "dificil",
+      "id": "ffd5"
+    },
+    {
+      "nombre": "Angular desde Cero",
+      "duracion": 8,
+      "dificultad": "alta",
+      "id": "2493"
+    }
+  ]
+}
